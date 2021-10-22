@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none !important; 
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    font-family: 'Poppins', sans-serif;
+}
+
+.asterisco-rojo{
+    color: red;
+    display: inline-block;
+    font-size: 1.1em;
+}

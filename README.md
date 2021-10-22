@@ -1,2 +1,2 @@
-# SandraEsteticaV2
-Proyecto Sandra Estética para el curso de la UTN Webmaster.
+# UTN-ProyectoFinal
+Proyecto final UTN Webmaster 2020: Sandra Estética.
