@@ -21,10 +21,18 @@
             <label for="campoTratamiento"><p class="asterisco-rojo">*</p> Tratamiento</label>
             <select id="campoTratamiento" class="form-control" name="tratamiento" required>
                 <option selected value="">Elija su tratamiento</option>
-                <option value="1">Facial 1</option>
-                <option value="2">Facial 2</option>
-                <option value="3">Corporal 1</option>
-                <option value="4">No sé cuál elegir.</option>
+                <option value="1">Peeling</option>
+                <option value="2">Pestañas</option>
+                <option value="3">Limpieza facial</option>
+                <option value="4">Mesoterapia facial</option>
+                <option value="5">Masaje facial</option>
+                <option value="6">Masajes de espalda</option>
+                <option value="7">Masajes descontracturantes</option>
+                <option value="8">Uñas</option>
+                <option value="9">Drenaje linfático</option>
+                <option value="10">Depilación con cera</option>
+                <option value="11">Depilación definitiva</option>
+                <option value="12">No sé cuál elegir.</option>
             </select>
         </div>
         <div class="form group">
